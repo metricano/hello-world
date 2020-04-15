@@ -1,2 +1,4 @@
 # hello-world
-My first footsteps into GIthub!
+My first footsteps into Github!
+
+I'm here to test the waters.
